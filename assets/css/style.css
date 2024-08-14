@@ -411,7 +411,11 @@ section {
     height: 40px;
     transition: transform 0.3s ease;
     display: inline-block;
-    margin-left: 5px; 
+    margin-left: 2rem; 
+}
+
+.right-icon {
+    margin-left: 0; 
 }
 
 .social-icon:hover {
